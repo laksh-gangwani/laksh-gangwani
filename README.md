@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laksh</h1>
-<h3 align="center">MSCS @ ASU | BSCS @ IIIT | Ex-Samsung | AWS Certified | Leetcode 400+</h3>
+<h3 align="center">Software Engineer | MSCS @ ASU | BSCS @ IIIT | Ex-Samsung | AWS Certified | Leetcode 500+</h3>
 
 - 🌱 I’m currently learning **GraphQL, Next.js, MongoDB**
 
